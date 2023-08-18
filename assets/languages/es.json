@@ -1,0 +1,60 @@
+{
+    "nav": {
+      "home": "Inicio",
+      "about": "Sobre mí",
+      "skills": "Habilidades",
+      "portfolio": "Portafolio",
+      "contact": "Contacto",
+      "downloadCV": "Descargar CV"
+    },
+    "sections": {
+      "home": {
+        "title": "Alex Bork.",
+        "scrollLink": "Desplazarse hacia abajo"
+      },
+      "about": {
+        "title": "Sobre mí",
+        "subtitle": "Soy Alexander Bohorquez",
+        "profession": "Estudiante de Desarrollo Web",
+        "text": "Actualmente, soy estudiante de Academlo, enfocado en el desarrollo frontend y cursando el programa de backend. Poseo un tecnólogo en análisis y desarrollo de información del SENA. Mi formación en Oracle Next Education se centra en el desarrollo frontend. Aspiro a crear aplicaciones accesibles y amigables. Valorando el trabajo en equipo y la gestión de proyectos, busco oportunidades de prácticas para seguir creciendo.",
+        "socialLinks": {
+          "linkedin": "https://www.linkedin.com/in/alexanderbork17/",
+          "github": "https://github.com/alexanderbohorquez"
+        }
+      },
+      "skills": {
+        "title": "Habilidades",
+        "development": "Desarrollo",
+        "html": "HTML",
+        "css": "CSS",
+        "javascript": "Javascript",
+        "sass": "Sass",
+        "react": "React",
+        "bootstrap": "Bootstrap 5",
+        "git": "Git",
+        "java": "Java",
+        "mysql": "MySQL Workbench"
+      },
+      "portfolio": {
+        "title": "Portafolio",
+        "detailsLink": "Ver detalles"
+      },
+      "contact": {
+        "title": "Contacto",
+        "emailSubtitle": "EMAIL",
+        "email": "alexanderbohorquez96@gmail.com",
+        "phoneSubtitle": "TELÉFONO",
+        "phone": "+57 3213040396",
+        "namePlaceholder": "Nombre",
+        "emailPlaceholder": "Email",
+        "messagePlaceholder": "Mensaje",
+        "sendButton": "Enviar"
+      }
+    },
+    "footer": {
+      "title": "Alex Bohorquez",
+      "text": "Soy Alex y este es mi portafolio.",
+      "exploreTitle": "EXPLORA"
+    }
+  }
+  

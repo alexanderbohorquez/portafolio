@@ -1,0 +1,59 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "downloadCV": "Download CV"
+    },
+    "sections": {
+        "home": {
+            "title": "Alex Bork.",
+            "scrollLink": "Scroll down"
+        },
+        "about": {
+            "title": "About Me",
+            "subtitle": "I am Alexander Bohorquez",
+            "profession": "Web Development Student",
+            "text": "Fullstack developer seeking job opportunities. Studying at Oracle Next Education and Alura, soon joining the Academlo Bootcamp. Goal: develop accessible and user-friendly applications. Creative, team player, and project management skills.",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/alexanderbork17/",
+                "github": "https://github.com/alexanderbohorquez"
+            }
+        },
+        "skills": {
+            "title": "Skills",
+            "development": "Development",
+            "html": "HTML",
+            "css": "CSS",
+            "javascript": "Javascript",
+            "sass": "Sass",
+            "react": "React",
+            "bootstrap": "Bootstrap 5",
+            "git": "Git",
+            "java": "Java",
+            "mysql": "MySQL Workbench"
+        },
+        "portfolio": {
+            "title": "Portfolio",
+            "detailsLink": "View details"
+        },
+        "contact": {
+            "title": "Contact",
+            "emailSubtitle": "EMAIL",
+            "email": "alexanderbohorquez96@gmail.com",
+            "phoneSubtitle": "PHONE",
+            "phone": "+57 3213040396",
+            "namePlaceholder": "Name",
+            "emailPlaceholder": "Email",
+            "messagePlaceholder": "Message",
+            "sendButton": "Send"
+        }
+    },
+    "footer": {
+        "title": "Alex Bohorquez",
+        "text": "I'm Alex and this is my portfolio.",
+        "exploreTitle": "EXPLORE"
+    }
+}

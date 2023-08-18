@@ -224,6 +224,7 @@ img {
     right: 0;
     bottom: 0;
     width: 300px;
+    
 }
 
 .about__container {
@@ -478,6 +479,8 @@ img {
     .home__img {
         width: 580px;
         right: 10%;
+        
+        
     }
 
     .about__container {
@@ -536,7 +539,53 @@ img {
     }
 
     .home__img {
-        width: 500px;
-        right: 24%;
+        width: 600px;
+        
     }
+}
+
+
+
+.float-icons {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1000;
+}
+
+.float-icons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px; 
+    height: 70px;
+    background-color: transparent; 
+    color: #333; 
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+    z-index: 1000;
+}
+
+
+
+
+
+.icon-whatsapp {
+    color: #25d366; 
+}
+
+.icon-linkedin {
+    color: #0077b5;
+}
+
+.icon-github {
+    color: #333; 
+}
+
+.float-icons a:hover {
+    background-color: rgba(0, 0, 0, 0.1); 
 }
